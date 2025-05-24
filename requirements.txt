@@ -1,0 +1,4 @@
+# No external dependencies except the custom communication modules inside 'communication' folder.
+# Tkinter is usually bundled with Python, but if not, install it on Linux with:
+# sudo apt-get install python3-tk
+tk
